@@ -1,8 +1,14 @@
 # Maratona Java - DevDojo
 
+Curso [DevDojo Academy](https://devdojo.academy/),  com 286 vídeos que abordam níveis do básico ao mais avançado.
+
+<img src=https://img.shields.io/badge/completion-7%25-orange>
+
 [TOC]
 
-## Básico
+## Conteúdo Programático
+
+### Nível Básico
 
 #### Introdução
 
@@ -56,7 +62,7 @@
 
 
 
-## Intermediário
+### Nível Intermediário
 
 #### Orientação a Objetos
 
@@ -78,43 +84,26 @@
 
 
 
-## Avançado
+### Nível Avançado
 
-#### Exceções pt 1, 2, 3, ... e 11
-
-#### Classes Utilitárias: pt 1, 2, 3, ... e 44
-
-#### Coleções: pt 1, 2, 3, ... e 22
-
-#### Generics: pt 1, 2, 3, ... e 6
-
-#### Classes Internas: pt 1, 2, 3 e 4
-
-#### Parametrizando Comportamentos: pt 1 e 2
-
-#### Lambdas: pt 1, 2 e 3
-
-#### Method Reference: pt 1, 2 e 3
-
-#### Optional: pt 1 e 2
-
-#### Strems: pt 1, 2, 3, ... e 17
-
-#### Threads: pt 1, 2, 3, ... e 9
-
-#### Concorrências: pt 1, 2, 3 ... e 17
-
-#### Padrões de Projeto: pt 1, 2, 3 ... e 6
-
-#### JDBC: pt 1, 2, 3 ... e 28
-
-#### Testes utilitários com jUnit: pt 1 e 2 
-
-#### Atualizando JDK
-
-#### Record Class
-
-#### Pattern Matching for Instanceof (*vídeo número 284*)
+- Exceções pt 1, 2, 3, ... e 11
+- Classes Utilitárias: pt 1, 2, 3, ... e 44
+- Coleções: pt 1, 2, 3, ... e 22
+- Generics: pt 1, 2, 3, ... e 6
+- Classes Internas: pt 1, 2, 3 e 4
+- Parametrizando Comportamentos: pt 1 e 2
+- Lambdas: pt 1, 2 e 3
+- Method Reference: pt 1, 2 e 3
+- Optional: pt 1 e 2
+- Strems: pt 1, 2, 3, ... e 17
+- Threads: pt 1, 2, 3, ... e 9
+- Concorrências: pt 1, 2, 3 ... e 17
+- Padrões de Projeto: pt 1, 2, 3 ... e 6
+- JDBC: pt 1, 2, 3 ... e 28
+- Testes utilitários com jUnit: pt 1 e 2 
+- Atualizando JDK
+- Record Class
+- Pattern Matching for Instanceof (*vídeo número 284*)
 
 
 
