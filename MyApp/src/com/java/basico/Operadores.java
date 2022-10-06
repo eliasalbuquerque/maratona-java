@@ -1,9 +1,8 @@
+package com.java.basico;
+
 /**
  * Operadores
  */
-
-package com.exemplo.basico;
-
 public class Operadores {
     public static void main(String[] args) {
         int numero1 = 10;

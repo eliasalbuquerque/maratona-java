@@ -1,4 +1,4 @@
-package com.exemplo.basico;
+package com.java.basico;
 
 public class TiposPrimitivos {
     public static void main(String[] args) throws Exception {
@@ -16,7 +16,9 @@ public class TiposPrimitivos {
         System.out.println(verdadeiro);
         System.out.println("Eu sou o "+nome);
 
-        System.out.println( numeroGrande+", "+salarioDouble+", "+salarioFloat+", "
-                            +idadeByte+", "+idadeShort+", "+caractere);
+        System.out.println( 
+            numeroGrande+", "+salarioDouble+", "+salarioFloat+", "
+            +idadeByte+", "+idadeShort+", "+caractere
+        );
     }    
 }
