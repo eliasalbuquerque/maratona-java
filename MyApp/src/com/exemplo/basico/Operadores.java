@@ -21,10 +21,12 @@ public class Operadores {
         String somaString = "A soma entre "+numero1+" e "+numero2+" é: "+soma;
         String subtracao = "A subtracao entre "+numero1+" e "+numero2+" é: "+subtrai;
 
-        System.out.println( multiplicacao+",\n"+
-                            divisao+",\n"+
-                            somaString+",\n"+
-                            subtracao+".\n");
+        System.out.println( 
+            multiplicacao+",\n"+
+            divisao+",\n"+
+            somaString+",\n"+
+            subtracao+".\n"
+        );
 
 
         // Aritméticos: %
