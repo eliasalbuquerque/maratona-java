@@ -2,7 +2,7 @@
 
 Curso [DevDojo Academy](https://devdojo.academy/),  com 286 vídeos que abordam níveis do básico ao mais avançado.
 
-<img src=https://img.shields.io/badge/completion-7%25-orange>
+<img src=https://img.shields.io/badge/completion-8%25-orange>
 
 [TOC]
 

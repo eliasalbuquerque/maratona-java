@@ -28,7 +28,7 @@ public class Operadores {
         );
 
 
-        // Aritméticos: %
+        // Aritméticos: % (resto da divisao)
         int numero3 = 3;
         int numero4 = 2;
         int resto = numero3 % numero4;
