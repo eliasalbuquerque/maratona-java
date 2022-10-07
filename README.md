@@ -2,9 +2,10 @@
 
 Curso [DevDojo Academy](https://devdojo.academy/),  com 286 vídeos que abordam níveis do básico ao mais avançado.
 
-<img src=https://img.shields.io/badge/completion-8%25-orange>
+<!--
+<img src=https://img.shields.io/badge/completion-11%25-green>
+-->
 
-[TOC]
 
 ## Conteúdo Programático
 
@@ -56,9 +57,9 @@ Curso [DevDojo Academy](https://devdojo.academy/),  com 286 vídeos que abordam 
 
 #### Arrays
 
-- Arrays: pt 1, 2 e 3
+- Arrays
 - foreach
-- Multidimensionais: pt 1, 2 e 3
+- Multidimensionais
 
 
 
@@ -66,49 +67,45 @@ Curso [DevDojo Academy](https://devdojo.academy/),  com 286 vídeos que abordam 
 
 #### Orientação a Objetos
 
-- Introdução classes: pt 1, 2 e 3
-- Exercícios classes
+- Introdução e Exercícios classes
 - Referência de objetos
-- Métodos: pt 1, 2, 3, 4, 5, 6 e 7
+- Métodos
 - Blocos de inicialização estático
-- Associação: pt 1, 2, 3, 4 e 5
+- Associação
 - Leitura de dados pelo console
 - Exercício leitura de dados do teclado
-- Herança: pt 1, 2, 3, 4 e 5
+- Herança
 - Sobrescrita do método toString
-- Modificador final: pt 1, 2 e 3
-- Enumeração pt: 1, 2, 3 e 4
-- Classes abstratas pt: 1, 2 e 3
-- Interfaces: pt 1, 2 e 3
-- Polimorfismo: pt 1, 2, 3, 4 e 5
+- Modificador final
+- Enumeração
+- Classes abstratas
+- Interfaces
+- Polimorfismo
 
 
 
 ### Nível Avançado
 
-- Exceções pt 1, 2, 3, ... e 11
-- Classes Utilitárias: pt 1, 2, 3, ... e 44
-- Coleções: pt 1, 2, 3, ... e 22
-- Generics: pt 1, 2, 3, ... e 6
-- Classes Internas: pt 1, 2, 3 e 4
-- Parametrizando Comportamentos: pt 1 e 2
-- Lambdas: pt 1, 2 e 3
-- Method Reference: pt 1, 2 e 3
-- Optional: pt 1 e 2
-- Strems: pt 1, 2, 3, ... e 17
-- Threads: pt 1, 2, 3, ... e 9
-- Concorrências: pt 1, 2, 3 ... e 17
-- Padrões de Projeto: pt 1, 2, 3 ... e 6
-- JDBC: pt 1, 2, 3 ... e 28
-- Testes utilitários com jUnit: pt 1 e 2 
+- Exceções
+- Classes Utilitárias
+- Coleções
+- Generics
+- Classes Internas
+- Parametrizando Comportamentos
+- Lambdas
+- Method Reference
+- Optional
+- Strems
+- Threads
+- Concorrências
+- Padrões de Projeto
+- JDBC
+- Testes utilitários com jUnit
 - Atualizando JDK
 - Record Class
-- Pattern Matching for Instanceof (*vídeo número 284*)
+- Pattern Matching for Instanceof
 
 
 
 ---
-
-
-
 ***Curso desenvolvido e distribuido por William Suane***
