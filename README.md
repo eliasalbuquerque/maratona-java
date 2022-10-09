@@ -1,9 +1,9 @@
 # Maratona Java - DevDojo
 
-Curso [DevDojo Academy](https://devdojo.academy/),  com 286 vídeos que abordam níveis do básico ao mais avançado.
+Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam níveis do básico ao mais avançado.
 
 <!--
-<img src=https://img.shields.io/badge/completion-11%25-green>
+<img src=https://img.shields.io/badge/completion-100%25-green>
 -->
 
 
@@ -108,4 +108,4 @@ Curso [DevDojo Academy](https://devdojo.academy/),  com 286 vídeos que abordam 
 
 
 ---
-***Curso desenvolvido e distribuido por William Suane***
+***Curso desenvolvido e distribuído por William Suane***

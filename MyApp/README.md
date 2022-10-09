@@ -1,6 +1,6 @@
 # Maratona Java
 
-<img src=https://img.shields.io/badge/completion-11%25-green>
+<img src=https://img.shields.io/badge/completion-13%25-green>
 
 
 
@@ -11,17 +11,32 @@
 - [x] Operadores
 - [x] Estruturas Condicionais
 - [x] Estruturas de Repetição
-- [ ] Arrays
+- [x] Arrays
 
-- **38 vídeos**
+- **38 vídeos: 5:30h de curso**
 
 
 
 ## Intermediário
 
-- [ ] Orientação a Objetos
+- Orientação a Objetos:
+  - [ ] Classes
+  - [ ] Referências de objetos
+  - [ ] Métodos
+  - [ ] Modificador de acesso
+  - [ ] Sobrecarga de métodos
+  - [ ] Contrutores
+  - [ ] Blocos de inicialização
+  - [ ] Associação
+  - [ ] Herança
+  - [ ] Sobrescrita do método toString
+  - [ ] Modificador final
+  - [ ] Enumeração
+  - [ ] CLasses abstratas
+  - [ ] Interfaces
+  - [ ] Polimorfismo 
 
-- **56 vídeos**
+- **56 vídeos: 9h de curso**
 
 
 
@@ -46,8 +61,8 @@
 - [ ] Record Class
 - [ ] Pattern Matching for Instanceof
 
-- **190 vídeos**
+- **190 vídeos: 32h de curso**
 
 ---
 
-**_Curso desenvolvido e distribuido por William Suane_**
+**_Curso desenvolvido e distribuído por William Suane_**
