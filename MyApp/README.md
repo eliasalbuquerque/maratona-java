@@ -1,6 +1,6 @@
 # Maratona Java
 
-<img src=https://img.shields.io/badge/completion-13%25-green>
+<img src=https://img.shields.io/badge/completion-1%25-green>
 
 
 
@@ -20,8 +20,8 @@
 ## Intermediário
 
 - Orientação a Objetos:
-  - [ ] Classes
-  - [ ] Referências de objetos
+  - [x] Classes
+  - [x] Referências de objetos
   - [ ] Métodos
   - [ ] Modificador de acesso
   - [ ] Sobrecarga de métodos
