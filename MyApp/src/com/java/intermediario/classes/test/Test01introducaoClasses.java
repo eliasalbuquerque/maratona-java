@@ -1,7 +1,7 @@
-package com.java.intermediarioPooClasses.test;
+package com.java.intermediario.classes.test;
 
-import com.java.intermediarioPooClasses.domain.Estudante;
-import com.java.intermediarioPooClasses.domain.Professor;
+import com.java.intermediario.classes.domain.Estudante;
+import com.java.intermediario.classes.domain.Professor;
 
 /**
  * Classes:

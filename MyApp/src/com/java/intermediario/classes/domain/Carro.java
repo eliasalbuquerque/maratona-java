@@ -1,4 +1,4 @@
-package com.java.intermediarioPooClasses.domain;
+package com.java.intermediario.classes.domain;
 
 public class Carro {
     public String nome;
