@@ -1,6 +1,6 @@
 # Maratona Java
 
-<img src=https://img.shields.io/badge/completion-17%25-green>
+<img src=https://img.shields.io/badge/completion-19%25-green>
 
 
 
@@ -22,7 +22,7 @@
 - Orientação a Objetos:
   - [x] Classes
   - [x] Referências de objetos
-  - [ ] Métodos
+  - [x] Métodos
   - [ ] Modificador de acesso
   - [ ] Sobrecarga de métodos
   - [ ] Contrutores

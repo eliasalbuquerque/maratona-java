@@ -66,12 +66,38 @@ public class Calculadora {
     public void alteraDoisNumeros(int num1, int num2) {
         
         // alterando o valor dos parametros recebidos
-        num1 = 99;
-        num2 = 33;
+        num1 = 99-num1;
+        num2 = 33-num2;
 
         // imprime valor alterado pelo método
         System.out.println("Dentro do método");
         System.out.println("Num1 = "+num1);
         System.out.println("Num2 = "+num2);
+    }
+
+
+    /**
+     * Passagem de paramentros
+     * Varargs
+     * 
+     * usando metodo com array e argumetos
+     */
+
+    // metodo utilizando array da forma tradicional
+    public void somaArray(int[] numeros) {
+        int soma = 0;
+        for (int aux : numeros) {
+            soma += aux;
+        }
+        System.out.println(soma);
+    }
+
+    // metodo utilizando VarArgs
+    public void somaVarArgs(int...isNumeros) {
+        int soma = 0;
+        for (int aux : isNumeros) {
+            soma += aux;
+        }
+        System.out.println(soma);
     }
 }

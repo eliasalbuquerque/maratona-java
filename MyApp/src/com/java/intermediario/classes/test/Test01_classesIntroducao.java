@@ -9,7 +9,7 @@ import com.java.intermediario.classes.domain.Professor;
  * Estudante;
  * Professor;
  */
-public class Test01introducaoClasses {
+public class Test01_classesIntroducao {
     public static void main(String[] args) {
         Estudante estudante = new Estudante();
         estudante.nome = "Joao";
