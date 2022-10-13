@@ -1,6 +1,6 @@
 # Maratona Java
 
-<img src=https://img.shields.io/badge/completion-19%25-green>
+<img src=https://img.shields.io/badge/completion-20%25-green>
 
 
 
@@ -23,8 +23,8 @@
   - [x] Classes
   - [x] Referências de objetos
   - [x] Métodos
-  - [ ] Modificador de acesso
-  - [ ] Sobrecarga de métodos
+  - [x] Modificador de acesso
+  - [x] Sobrecarga de métodos
   - [ ] Contrutores
   - [ ] Blocos de inicialização
   - [ ] Associação
