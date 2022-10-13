@@ -2,110 +2,69 @@
 
 Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam níveis do básico ao mais avançado.
 
-<!--
-<img src=https://img.shields.io/badge/completion-100%25-green>
--->
-
-
-## Conteúdo Programático
-
-### Nível Básico
-
-#### Introdução
-
-- Como Java funciona
-- Download JDK15
-- Configurando variáveis de ambiente
-- Download IDE IntelliJ Community
-- Conhecendo IDE IntelliJ Community
-- Organizando código em pacotes
-- Comentários
-
-#### Tipos Primitivos
-
-- Convenções de variáveis
-- Declaração e tamanho em memória
-- Casting
-- Strings
-- Exercícios
-
-#### Operadores
-
-- Aritméticos
-- Relacionais
-- Lógicos AND
-- Lógicos Or
-- Atribuição
-
-#### Estruturas Condicionais
-
-- if
-- else if
-- Operador ternário
-- Tabela verdade e exercícios
-- Resolução dos exercícios
-- Switch
-- Switch exercícios
-
-#### Estruturas de Repetição
-
-- while, do while, for
-- Exercícios for
-- Break
-- Exercícios Break
-- Continue
-
-#### Arrays
-
-- Arrays
-- foreach
-- Multidimensionais
+<img src=https://img.shields.io/badge/completion-20%25-green>
 
 
 
-### Nível Intermediário
+## Básico
 
-#### Orientação a Objetos
+- [x] Introdução
+- [x] Tipos Primitivos
+- [x] Operadores
+- [x] Estruturas Condicionais
+- [x] Estruturas de Repetição
+- [x] Arrays
 
-- Introdução e Exercícios classes
-- Referência de objetos
-- Métodos
-- Blocos de inicialização estático
-- Associação
-- Leitura de dados pelo console
-- Exercício leitura de dados do teclado
-- Herança
-- Sobrescrita do método toString
-- Modificador final
-- Enumeração
-- Classes abstratas
-- Interfaces
-- Polimorfismo
+- **38 vídeos: 5:30h de curso**
 
 
 
-### Nível Avançado
+## Intermediário
 
-- Exceções
-- Classes Utilitárias
-- Coleções
-- Generics
-- Classes Internas
-- Parametrizando Comportamentos
-- Lambdas
-- Method Reference
-- Optional
-- Strems
-- Threads
-- Concorrências
-- Padrões de Projeto
-- JDBC
-- Testes utilitários com jUnit
-- Atualizando JDK
-- Record Class
-- Pattern Matching for Instanceof
+- Orientação a Objetos:
+  - [x] Classes
+  - [x] Referências de objetos
+  - [x] Métodos
+  - [x] Modificador de acesso
+  - [x] Sobrecarga de métodos
+  - [ ] Contrutores
+  - [ ] Blocos de inicialização
+  - [ ] Associação
+  - [ ] Herança
+  - [ ] Sobrescrita do método toString
+  - [ ] Modificador final
+  - [ ] Enumeração
+  - [ ] CLasses abstratas
+  - [ ] Interfaces
+  - [ ] Polimorfismo 
+
+- **56 vídeos: 9h de curso**
 
 
+
+## Avançado
+
+- [ ] Exceções
+- [ ] Classes Utilitárias
+- [ ] Coleções
+- [ ] Generics
+- [ ] Classes Internas
+- [ ] Parametrizando Comportamentos
+- [ ] Lambdas
+- [ ] Method Reference
+- [ ] Optional
+- [ ] Strems
+- [ ] Threads
+- [ ] Concorrências
+- [ ] Padrões de Projeto
+- [ ] JDBC
+- [ ] Testes utilitários com jUnit
+- [ ] Atualizando JDK
+- [ ] Record Class
+- [ ] Pattern Matching for Instanceof
+
+- **190 vídeos: 32h de curso**
 
 ---
-***Curso desenvolvido e distribuído por William Suane***
+
+**_Curso desenvolvido e distribuído por William Suane_**
