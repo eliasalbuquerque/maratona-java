@@ -2,7 +2,7 @@ package com.java.intermediario.sobrecargaDeMetodos.test;
 
 import com.java.intermediario.sobrecargaDeMetodos.domain.Empresa;
 
-public class Test01_sobrecargaDeMetodos {
+public class SobrecargaDeMetodos {
     public static void main(String[] args) {
         Empresa empresa = new Empresa();
 

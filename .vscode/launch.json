@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SerieTeste",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.blocosDeInicializacao.test.SerieTeste",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Contrutores",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.contrutores.test.Contrutores",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01_contrutores",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.contrutores.test.Test01_contrutores",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01_sobrecargaDeMetodos",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.sobrecargaDeMetodos.test.Test01_sobrecargaDeMetodos",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

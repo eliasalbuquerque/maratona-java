@@ -3,7 +3,7 @@ package com.java.intermediario.modificadorDeAcesso.test;
 import com.java.intermediario.modificadorDeAcesso.domain.Funcionario;
 import com.java.intermediario.modificadorDeAcesso.domain.Pessoa;
 
-public class Test01_modificadorDeAcessoPrivadoGetSet {
+public class ModificadorDeAcessoPrivadoGetSet {
     public static void main(String[] args) {
         Pessoa pessoa01 = new Pessoa();
         Funcionario funcionario01 = new Funcionario();
