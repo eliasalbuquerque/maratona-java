@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JogadorTest",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.associacaoArrayComObjetos.test.JogadorTest",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarroTest",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.metodosEstaticos.test.CarroTest",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
             "name": "Launch SerieTeste",
             "request": "launch",
             "mainClass": "com.java.intermediario.blocosDeInicializacao.test.SerieTeste",

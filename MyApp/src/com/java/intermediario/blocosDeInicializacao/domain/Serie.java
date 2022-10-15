@@ -2,21 +2,20 @@ package com.java.intermediario.blocosDeInicializacao.domain;
 
 public class Serie {
     private String nome;
-    private int[] episodios;
-    {
+    private static int[] episodios;
+
+    static {
         System.out.println("dentro do bloco de inicializacao");
-    }
-
-
-    public Serie(String nome, int quantidadeEpisodios) {
-        episodios = new int[quantidadeEpisodios];
+        episodios = new int[10];
         for (int i = 0; i < episodios.length; i++) {
             episodios[i] = i+1;
         }
-        System.out.println(nome);
-        for(int episodio: this.episodios) {
+    }       
+    
+    public Serie() {
+        for (int episodio : Serie.episodios) {
             System.out.print(episodio+" ");
         }
         System.out.println();
-    }  
+    }
 }
