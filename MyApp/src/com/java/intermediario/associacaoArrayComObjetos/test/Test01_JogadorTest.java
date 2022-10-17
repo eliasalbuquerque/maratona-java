@@ -2,7 +2,7 @@ package com.java.intermediario.associacaoArrayComObjetos.test;
 
 import com.java.intermediario.associacaoArrayComObjetos.domain.Jogador;
 
-public class JogadorTest {
+public class Test01_JogadorTest {
     public static void main(String[] args) {   
         Jogador jogador1 = new Jogador("Neymar");
         Jogador jogador2 = new Jogador("Richarlison");
