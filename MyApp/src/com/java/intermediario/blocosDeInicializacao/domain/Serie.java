@@ -1,7 +1,6 @@
 package com.java.intermediario.blocosDeInicializacao.domain;
 
 public class Serie {
-    private String nome;
     private static int[] episodios;
 
     static {

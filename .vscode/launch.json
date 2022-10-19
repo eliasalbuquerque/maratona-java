@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test01_herancaPessoaEndereco",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.heranca.test.Test01_herancaPessoaEndereco",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test05_exercicioAssociacaoDeClasses",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.associacaoArrayComObjetos.test.Test05_exercicioAssociacaoDeClasses",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test04_leituraDoTeclado",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.associacaoArrayComObjetos.test.Test04_leituraDoTeclado",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01_JogadorTest",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.associacaoArrayComObjetos.test.Test01_JogadorTest",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test03_associacaoEscolaProfessor",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.associacaoArrayComObjetos.test.Test03_associacaoEscolaProfessor",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test02_associacaoJogadorTime",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.associacaoArrayComObjetos.test.Test02_associacaoJogadorTime",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
             "name": "Launch JogadorTest",
             "request": "launch",
             "mainClass": "com.java.intermediario.associacaoArrayComObjetos.test.JogadorTest",
