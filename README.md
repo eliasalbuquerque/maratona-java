@@ -2,7 +2,7 @@
 
 Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam níveis do básico ao mais avançado.
 
-<img src=https://img.shields.io/badge/completion-23%25-green>
+<img src=https://img.shields.io/badge/completion-26%25-green>
 
 
 
@@ -29,7 +29,7 @@ Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam 
   - [x] Sobrecarga de métodos
   - [x] Contrutores
   - [x] Blocos de inicialização
-  - [ ] Associação
+  - [x] Associação
   - [ ] Herança
   - [ ] Sobrescrita do método toString
   - [ ] Modificador final

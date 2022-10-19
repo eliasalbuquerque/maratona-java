@@ -13,11 +13,11 @@ public class Test02_associacaoJogadorTime {
     public static void main(String[] args) {
         Jogador jogador1 = new Jogador("Neymar");
         Jogador jogador2 = new Jogador("Messi");
-        Time time1 = new Time("Selecao Brasileira");
-        Time time2 = new Time("PSG");
-
         Jogador[] jogadores = {jogador1, jogador2};
         Jogador[] ney = {jogador1};
+        Time time1 = new Time("Selecao Brasileira", ney);
+        Time time2 = new Time("PSG", jogadores);
+
         // Jogador[] mes = {jogador2};
         Time[] times = {time1, time2};
         // Time[] bra = {time1};
@@ -25,8 +25,6 @@ public class Test02_associacaoJogadorTime {
 
         jogador1.setTime(times);
         jogador2.setTime(psg);
-        time1.setJogadores(ney);
-        time2.setJogadores(jogadores);
 
 
         System.out.println("---jogador---");
