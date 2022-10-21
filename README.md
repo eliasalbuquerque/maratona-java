@@ -2,7 +2,7 @@
 
 Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam níveis do básico ao mais avançado.
 
-<img src=https://img.shields.io/badge/completion-26%25-green>
+<img src=https://img.shields.io/badge/completion-31%25-green>
 
 
 
@@ -30,11 +30,11 @@ Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam 
   - [x] Contrutores
   - [x] Blocos de inicialização
   - [x] Associação
-  - [ ] Herança
-  - [ ] Sobrescrita do método toString
-  - [ ] Modificador final
-  - [ ] Enumeração
-  - [ ] CLasses abstratas
+  - [x] Herança
+  - [x] Sobrescrita do método toString
+  - [x] Modificador final
+  - [x] Enumeração
+  - [x] CLasses abstratas
   - [ ] Interfaces
   - [ ] Polimorfismo 
 

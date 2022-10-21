@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test01_inteface",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.interfaces.test.Test01_inteface",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01_classesAbstratasFuncionario",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.classesAbstratas.test.Test01_classesAbstratasFuncionario",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01_enumeracaoCliente",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.enumeracao.test.Test01_enumeracaoCliente",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01_modificadorFinal",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.modificadorFinal.test.Test01_modificadorFinal",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01_sobrescritaMercado",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.sobrescrita.test.Test01_sobrescritaMercado",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
             "name": "Launch Test01_herancaPessoaEndereco",
             "request": "launch",
             "mainClass": "com.java.intermediario.heranca.test.Test01_herancaPessoaEndereco",
