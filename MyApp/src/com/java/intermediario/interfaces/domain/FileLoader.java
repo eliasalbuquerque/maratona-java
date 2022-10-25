@@ -1,9 +1,13 @@
 package com.java.intermediario.interfaces.domain;
 
-public class FileLoader implements DataLoader {
+public class FileLoader implements DataLoader, DataRemover {
     @Override
     public void load() {
-        System.out.println("Metodo carrega arquivo");        
+        System.out.println(getClass().getSimpleName()+" - Metodo carrega arquivo");        
     }
-    
+
+    @Override
+    public void remove() {
+        System.out.println(getClass().getSimpleName()+" - Metodo remove arquivo");
+    }
 }
