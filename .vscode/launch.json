@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test04_polimorfismoProgramacaoOrientadaInterface",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.polimorfismo.test.Test04_polimorfismoProgramacaoOrientadaInterface",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
             "name": "Launch Test02_polimorfismoServiceDomain",
             "request": "launch",
             "mainClass": "com.java.intermediario.polimorfismo.test.Test02_polimorfismoServiceDomain",

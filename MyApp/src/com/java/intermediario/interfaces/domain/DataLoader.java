@@ -2,19 +2,20 @@ package com.java.intermediario.interfaces.domain;
 
 public interface DataLoader {
     /**
-     * Por padrao, todos os atributos de uma interface sao
+     * Por padrao, toda constante de uma interface sao
      * "public static final" e ja vem implicito no codigo 
      * -> public static final int MAX_DATA_SIZE = 10;
      */
     int MAX_DATA_SIZE = 10;
 
     /**
-     * Todo método em interfaces são
-     * "public abstract" e já estão 
-     * implícitos no método;
-     * -> public abstract void load();
+     * Todo metodo de uma interface pode conter: abstract, default e static metodos;
+     * Por padrao, o modificador de acesso "public" ja esta implicito o pode ser
+     * omitido do codigo -> public abstract void load();
+     * O metodo de uma interface sao declarados mas nao implementados, quem deve
+     * prover as implementacoes sao as classes que implementam a interface;
      */
-    void load();
+    abstract void load();
 
     /**
      * Modificador "default" criado para implementar um metodo
@@ -32,7 +33,7 @@ public interface DataLoader {
      * Qualquer tentativa de sobrescrever o metodo, sera criado
      * um metodo totalmente diferente e o @Override nao sera permitido;
      */
-    public static void retriveMaxDataSize() {
+    static void retriveMaxDataSize() {
         System.out.println("interface DataLoader - Metodo estatico dentro da interface");
     }
 }
