@@ -23,7 +23,7 @@ Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam 
 
 ## Intermediário
 
-<img src=https://img.shields.io/badge/intermediary-98%25-green>
+<img src=https://img.shields.io/badge/intermediary-100%25-green>
 
 - Orientação a Objetos:
   - [x] Classes
@@ -40,7 +40,7 @@ Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam 
   - [x] Enumeração
   - [x] CLasses abstratas
   - [x] Interfaces
-  - [ ] Polimorfismo 
+  - [x] Polimorfismo 
 
 - **56 vídeos: 9h de curso**
 
