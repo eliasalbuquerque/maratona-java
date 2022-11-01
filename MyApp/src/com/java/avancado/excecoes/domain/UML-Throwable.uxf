@@ -1,0 +1,24 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes-</help_text><element><id>UMLClass</id><coordinates><x>220</x><y>100</y><w>120</w><h>30</h></coordinates><panel_attributes>**Class Throwable**</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>150</x><y>220</y><w>100</w><h>30</h></coordinates><panel_attributes>**Class Error**</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>360</y><w>30</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>120</y><w>110</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;60;90;60;90;100</additional_attributes></element><element><id>Relation</id><coordinates><x>190</x><y>120</y><w>110</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>90;10;90;60;10;60;10;100</additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>220</y><w>120</w><h>30</h></coordinates><panel_attributes>**Class Exception**</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>170</x><y>340</y><w>170</w><h>30</h></coordinates><panel_attributes>**Class RuntimeException**</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>380</x><y>420</y><w>170</w><h>90</h></coordinates><panel_attributes>/_Classes Checked:_/
+
+IOException
+SQLException
+MalFormedURLException
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>160</x><y>420</y><w>190</w><h>120</h></coordinates><panel_attributes>/_Classes Unchecked:_/
+
+NullPonterException
+NumberFormatException
+ClassCastException
+IndexOutOfBoundsException
+/..e muitas outras no site da Oracle/
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>240</y><w>130</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>110;10;110;60;10;60;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>240</y><w>140</w><h>200</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;60;120;60;120;180</additional_attributes></element><element><id>UMLNote</id><coordinates><x>380</x><y>520</y><w>140</w><h>70</h></coordinates><panel_attributes>Note..
+Qualquer problema de 
+Exception o código nem 
+compila;
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>160</x><y>550</y><w>140</w><h>120</h></coordinates><panel_attributes>Note..
+Na maioria das vezes,
+quando surge uma 
+Exception dessas
+classes, o erro está 
+no desenvolvimento
+do código;
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
