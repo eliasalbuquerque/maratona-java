@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test05_Exception_ThrowNew",
+            "request": "launch",
+            "mainClass": "com.java.avancado.excecoes.test.Test05_Exception_ThrowNew",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test04_Exception_RuntimeException_Unchecked",
+            "request": "launch",
+            "mainClass": "com.java.avancado.excecoes.test.Test04_Exception_RuntimeException_Unchecked",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
             "name": "Launch Test03_Exception",
             "request": "launch",
             "mainClass": "com.java.avancado.excecoes.test.Test03_Exception",
