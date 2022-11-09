@@ -1,7 +1,7 @@
 package com.java.intermediario.classesAbstratas.domain;
 
 /**
- * uma classe abstrata funciona somente 
+ * Uma classe abstrata funciona somente 
  * como um Template, não é possível
  * criar um objeto direto dela
  */
@@ -16,7 +16,7 @@ public abstract class Funcionario {
         calculaBonus();
     }
 
-    // foça as subclasses a prover a implementaçao 
+    // força as subclasses a prover a implementaçao 
     // do método abstract;
     // métodos abstratos só podem existir dentro
     // de classes abstratas;

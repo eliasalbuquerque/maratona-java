@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test05_Exception_ThrowNew",
+            "request": "launch",
+            "mainClass": "com.java.avancado.excecoes.test.Test05_Exception_ThrowNew",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test04_Exception_RuntimeException_Unchecked",
+            "request": "launch",
+            "mainClass": "com.java.avancado.excecoes.test.Test04_Exception_RuntimeException_Unchecked",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test03_Exception",
+            "request": "launch",
+            "mainClass": "com.java.avancado.excecoes.test.Test03_Exception",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test02_Exception_RuntimeException",
+            "request": "launch",
+            "mainClass": "com.java.avancado.excecoes.test.Test02_Exception_RuntimeException",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1_StackOverflow",
+            "request": "launch",
+            "mainClass": "com.java.avancado.excecoes.test.Test1_StackOverflow",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test04_polimorfismoProgramacaoOrientadaInterface",
+            "request": "launch",
+            "mainClass": "com.java.intermediario.polimorfismo.test.Test04_polimorfismoProgramacaoOrientadaInterface",
+            "projectName": "maratona-java_fddc320c"
+        },
+        {
+            "type": "java",
             "name": "Launch Test02_polimorfismoServiceDomain",
             "request": "launch",
             "mainClass": "com.java.intermediario.polimorfismo.test.Test02_polimorfismoServiceDomain",
