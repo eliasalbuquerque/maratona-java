@@ -9,10 +9,10 @@ public class Test05_Exception_ThrowNew {
     }
 
     public static void criarNovoArquivo() throws IOException {
-        File file = new File("MyApp\\arquivo\\Teste04.txt");
+        File file = new File("C:\\workspace\\maratona-java\\MyApp\\arquivo\\Test04_Exception.txt");
         try {
-            boolean isCriado = file.createNewFile();  
-            System.out.println("Arquivo criado "+isCriado);          
+            boolean isCriado = file.createNewFile();
+            System.out.println("Arquivo criado " + isCriado);
         } catch (IOException e) {
             e.printStackTrace();
             throw e;
