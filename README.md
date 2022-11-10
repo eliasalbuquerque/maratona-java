@@ -2,7 +2,7 @@
 
 Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam níveis do básico ao mais avançado.
 
-<img src=https://img.shields.io/badge/progress-33%25-green>
+<img src=https://img.shields.io/badge/progress-36%25-green>
 
 
 
@@ -48,7 +48,7 @@ Curso [DevDojo Academy](https://devdojo.academy/),  com 284 vídeos que abordam 
 
 ## Avançado
 
-- [ ] Exceções
+- [x] Exceções
 - [ ] Classes Utilitárias
 - [ ] Coleções
 - [ ] Generics

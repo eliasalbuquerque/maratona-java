@@ -14,7 +14,7 @@ public class Test03_Exception {
     }
 
     private static void criarNovoArquivo(){
-        File file = new File("MyApp\\arquivo\\Test03_Exception-Criando-arquivo02.txt");
+        File file = new File("C:\\workspace\\maratona-java\\MyApp\\arquivoTest03_Exception-Criando-arquivo03.txt");        
         
 
         /**
