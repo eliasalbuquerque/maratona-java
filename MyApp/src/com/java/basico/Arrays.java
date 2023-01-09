@@ -56,11 +56,9 @@ public class Arrays {
         }
 
         System.out.println("- Array sobrescrito:");
-        nomes = new String[2];
+        nomes = new String[]{"Paulo", "Joao"};
         for (int i = 0; i < nomes.length; i++) {
             System.out.println(nomes[i]);
         }
-
-
     }
 }

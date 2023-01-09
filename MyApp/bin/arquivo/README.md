@@ -8,6 +8,7 @@ Diretório criado para teste de _Exception_.
 - Objeto `File file = new File(pathname:);`
 
 
+
 ## Teste 01
 
 `file.createNewFile();` = Java não compila.
@@ -15,6 +16,7 @@ Diretório criado para teste de _Exception_.
 ```powershell
 boolean java.io.File.createNewFile() throws IOException
 ```
+
 
 
 ## Teste 02
@@ -31,6 +33,7 @@ try {
 ```
 
 `Test03_Exception-Criando-arquivo.txt` arquivo gerado pela classe _File_ e com tratamento de _Exceptions_.
+
 
 
 ## Teste 03
