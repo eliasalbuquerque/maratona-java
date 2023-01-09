@@ -33,10 +33,12 @@ public class Arrays {
         idades[1] = 14;
         idades[2] = 7;
 
+        System.out.println("- for comum:");
         for (int i = 0; i < idades.length; i++) {
             System.out.println(idades[i]);
         }
         
+        System.out.println("- foreach:");
         // ou com o "foreach"
         for (int i : idades) {
             System.out.println(i);
