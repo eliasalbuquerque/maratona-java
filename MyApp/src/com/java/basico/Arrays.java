@@ -33,10 +33,12 @@ public class Arrays {
         idades[1] = 14;
         idades[2] = 7;
 
+        System.out.println("- for comum:");
         for (int i = 0; i < idades.length; i++) {
             System.out.println(idades[i]);
         }
         
+        System.out.println("- foreach:");
         // ou com o "foreach"
         for (int i : idades) {
             System.out.println(i);
@@ -56,11 +58,9 @@ public class Arrays {
         }
 
         System.out.println("- Array sobrescrito:");
-        nomes = new String[2];
+        nomes = new String[]{"Paulo", "Joao"};
         for (int i = 0; i < nomes.length; i++) {
             System.out.println(nomes[i]);
         }
-
-
     }
 }
